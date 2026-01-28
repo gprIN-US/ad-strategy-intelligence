@@ -1,0 +1,17 @@
+brand_key,brand,segment,industry,week_start,distinct_ads,ad_active_days,distinct_landing_domains
+c9096e2a4abd277fecac4bcc66aaa090,Oura,Startup,Wearables,,0,1,0
+23d03df42d14f7fa1b1cae411bc90427,Duolingo,Startup,EdTech,,0,1,0
+6253e1406b64bbe6ba7b00ac0bf81257,CocaCola,Enterprise,Food & Beverage,,0,1,0
+1f3870be274f6c49b3e31a0c6728957f,Apple,Enterprise,Consumer Tech,2025-11-03,1,1,1
+5ea790e4a248dab6ac4b6ae1854463c7,Notion,Startup,Productivity SaaS,,0,1,0
+2d0d4809e6bdb6f4db3e547f27b1873c,Amazon,Enterprise,Ecommerce,2025-07-28,3,3,1
+1f3870be274f6c49b3e31a0c6728957f,Apple,Enterprise,Consumer Tech,2026-01-12,1,1,1
+41fd220f05ed0d8c56e3b83af87d45d7,Nike,Enterprise,Consumer Goods,2023-08-14,1,1,1
+41fd220f05ed0d8c56e3b83af87d45d7,Nike,Enterprise,Consumer Goods,2025-06-16,1,2,1
+2d0d4809e6bdb6f4db3e547f27b1873c,Amazon,Enterprise,Ecommerce,2024-12-16,1,1,1
+1f3870be274f6c49b3e31a0c6728957f,Apple,Enterprise,Consumer Tech,2025-12-22,2,2,1
+7592fa175d6eef5711d311a6516a6a9d,Airbnb,Enterprise,Travel,2025-12-29,4,4,1
+2d0d4809e6bdb6f4db3e547f27b1873c,Amazon,Enterprise,Ecommerce,2025-12-01,2,2,1
+0d40d32696b652390fb286b8dd5b634e,Canva,Startup,Design SaaS,2025-12-29,3,3,1
+41fd220f05ed0d8c56e3b83af87d45d7,Nike,Enterprise,Consumer Goods,2024-10-07,1,1,1
+636c557cea67ea7d0c8ceca86563b79b,Glossier,Startup,Beauty DTC,,0,1,0

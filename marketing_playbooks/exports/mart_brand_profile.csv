@@ -1,0 +1,11 @@
+brand,segment,total_ads,total_active_days,avg_domains_per_week
+Amazon,Enterprise,6,6,1.0
+Apple,Enterprise,4,4,1.0
+Airbnb,Enterprise,4,4,1.0
+Nike,Enterprise,3,4,1.0
+Canva,Startup,3,3,1.0
+Oura,Startup,0,1,0.0
+CocaCola,Enterprise,0,1,0.0
+Duolingo,Startup,0,1,0.0
+Notion,Startup,0,1,0.0
+Glossier,Startup,0,1,0.0

@@ -1,0 +1,10 @@
+# Copy this file to ~/.dbt/profiles.yml (or merge it into your existing profiles.yml)
+# Then run: dbt debug
+
+marketing_playbooks:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: dev.duckdb
+      schema: main

@@ -1,0 +1,29 @@
+name: 'marketing_playbooks'
+version: '1.0.0'
+config-version: 2
+
+profile: 'marketing_playbooks'
+
+model-paths: ['models']
+analysis-paths: ['analyses']
+test-paths: ['tests']
+seed-paths: ['seeds']
+macro-paths: ['macros']
+snapshot-paths: ['snapshots']
+
+target-path: 'target'
+clean-targets: ['target', 'dbt_packages']
+
+models:
+  marketing_playbooks:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table
+
+seeds:
+  marketing_playbooks:
+    +quote_columns: false
+    ads_meta:
+      +column_types:
+        ad_library_id: varchar
